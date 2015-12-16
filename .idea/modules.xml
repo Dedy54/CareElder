@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CareElde.iml" filepath="$PROJECT_DIR$/CareElde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mikeLibraryAbout/mikeLibraryAbout.iml" filepath="$PROJECT_DIR$/mikeLibraryAbout/mikeLibraryAbout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mikeLibraryIconics/mikeLibraryIconics.iml" filepath="$PROJECT_DIR$/mikeLibraryIconics/mikeLibraryIconics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mikeLibraryMaterialDrawer/mikeLibraryMaterialDrawer.iml" filepath="$PROJECT_DIR$/mikeLibraryMaterialDrawer/mikeLibraryMaterialDrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mikeLibraryMaterialize/mikeLibraryMaterialize.iml" filepath="$PROJECT_DIR$/mikeLibraryMaterialize/mikeLibraryMaterialize.iml" />
+    </modules>
+  </component>
+</project>

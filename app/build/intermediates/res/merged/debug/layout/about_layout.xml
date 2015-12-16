@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.parallaxstudios.careelder.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="?attr/selectableItemBackground" >
+	
+    <Button
+        android:id="@+id/btn_news_feed"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_cekkondisi"
+        android:onClick="onAbout2Click"
+        android:textColor="#27ae60"
+        android:text="Elder Apps" />	
+	
+</com.parallaxstudios.careelder.DashboardLayout>

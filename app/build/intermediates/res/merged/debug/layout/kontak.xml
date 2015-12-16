@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.parallaxstudios.careelder.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="?attr/selectableItemBackground" >
+	
+    <com.parallaxstudios.careelder.RoundedImageView
+		android:id="@+id/imageViewImage"
+		android:layout_width="56dp"
+		android:layout_height="56dp"
+		android:layout_alignParentStart="true"
+		android:layout_marginStart="16dp"
+		android:src="@drawable/ic_menu_tyna" />
+	
+</com.parallaxstudios.careelder.DashboardLayout>
